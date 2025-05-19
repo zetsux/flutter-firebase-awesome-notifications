@@ -1,16 +1,9 @@
 # flutter_awesome_notification_firebase
 
-A new Flutter project.
+## Description
 
-## Getting Started
+This is a repository for trying to integrate Firebase Notifications (Cloud Messaging) to Awesome Notifications in Flutter Mobile App Project. I used ios for the platform.
 
-This project is a starting point for a Flutter application.
+## Demo Video URL
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[https://youtu.be/j-6ziNNki2Y](https://youtu.be/j-6ziNNki2Y)
