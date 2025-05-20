@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a repository for trying to integrate Firebase Notifications (Cloud Messaging) to Awesome Notifications in Flutter Mobile App Project. I used ios for the platform.
+This is a repository for trying to integrate Firebase Notifications (Cloud Messaging) to Awesome Notifications in Flutter Mobile App Project. I used ios for the platform by integrating APN (Apple Push Notification) into Firebase.
 
 ## Demo Video URL
 
